@@ -1,7 +1,7 @@
-# HMS-XXXXW-T2 for Home Assistant
-This Home Assistant custom component utilizes the `hoymiles-wifi` Python library, allowing seamless integration with Hoymiles HMS microinverters, specifically designed for the HMS-XXXXW-T2 series. Special thanks to [DennisOSRM](https://github.com/DennisOSRM) for inspiring and contributing to the codebase through the [hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) repository.
+# HMS-XXXXW-T4 for Home Assistant
+This Home Assistant custom component utilizes the `hoymiles-wifi` Python library, allowing seamless integration with Hoymiles HMS microinverters, specifically designed for the HMS-XXXXW-T4 series. Special thanks to [DennisOSRM](https://github.com/DennisOSRM) for inspiring and contributing to the codebase through the [hms-mqtt-publisher](https://github.com/DennisOSRM/hms-mqtt-publisher) repository.
 
-**Disclaimer: This custom component is an independent project and is not affiliated with Hoymiles. It has been developed to provide Home Assistant users with tools for interacting with Hoymiles HMS-XXXXW-T2 series micro-inverters featuring integrated WiFi DTU. Any trademarks or product names mentioned are the property of their respective owners.**
+**Disclaimer: This custom component is an independent project and is not affiliated with Hoymiles. It has been developed to provide Home Assistant users with tools for interacting with Hoymiles HMS-XXXXW-T4 series micro-inverters featuring integrated WiFi DTU. Any trademarks or product names mentioned are the property of their respective owners.**
 
 
 ## Installation
@@ -13,7 +13,7 @@ This Home Assistant custom component utilizes the `hoymiles-wifi` Python library
    - **URL:** `https://github.com/suaveolent/ha-hoymiles-wifi`
    - **Category:** Integration
 
-5. Click "Save" and then click "Install" on the `Hoymiles HMS-XXXXW-T2` integration.
+5. Click "Save" and then click "Install" on the `Hoymiles HMS-XXXXW-T4` integration.
 
 
 ### Option 2: Manual Installation
@@ -38,4 +38,4 @@ Use this custom component responsibly and be aware of potential risks. There are
 
 **Update Frequency:** The library may experience limitations in fetching updates, potentially around twice per minute. The inverter firmware may enforce a mandatory wait period of approximately 30 seconds between requests.
 
-**Compatibility:** While developed for the HMS-800W-T2 inverter, compatibility with other inverters from the series is untested at the time of writing. Exercise caution and conduct thorough testing if using with different inverter models.
+**Compatibility:** While developed for the HMS-800W-T4 inverter, compatibility with other inverters from the series is untested at the time of writing. Exercise caution and conduct thorough testing if using with different inverter models.
