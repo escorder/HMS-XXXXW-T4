@@ -2,7 +2,7 @@
     "config": {
       "step": {
         "user": {
-          "title": "Hoymiles HMS-XXXXW-T2 connection",
+          "title": "CB:Hoymiles HMS-XXXXW-T4 connection",
           "description": "If you need help with the configuration have a look here: https://github.com/suaveolent/ha-hoymiles-wifi",
           "data": {
             "host": "Hostname/IP",
@@ -21,7 +21,7 @@
     "options": {
       "step": {
         "user_options": {
-          "title": "Hoymiles HMS-XXXXW-T2 connection",
+          "title": "CB: Hoymiles HMS-XXXXW-T4 connection",
           "description": "If you need help with the configuration have a look here: https://github.com/suaveolent/ha-hoymiles-wifi",
           "data": {
             "host": "Hostname/IP",
